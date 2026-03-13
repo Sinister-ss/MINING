@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-╔══════════════════════════════════════╗
-║   ⛏️  TELEGRAM MINING BOT  ⛏️        ║
-║   Ready for Railway Deployment       ║
-╚══════════════════════════════════════╝
-"""
-
 import asyncio
 import logging
 import os
